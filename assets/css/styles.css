@@ -1,0 +1,19 @@
+
+
+.card {
+    border: 1px solid #ccc;
+}
+
+.card-header {
+    background-color: #007bff; /* Azul */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Azul */
+    border-color: #007bff; /* Azul */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Tons mais escuros de azul ao passar o mouse */
+    border-color: #0056b3;
+}
